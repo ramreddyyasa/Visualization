@@ -305,12 +305,12 @@ plt.show()
 - Seaborn library is built on top of the matploltib library. We could work with dataframes directly when we use the seaborn library. You could learn more about the <a href='https://seaborn.pydata.org'>features of seaborn here.</a>
 
 - Seaborn plots important parameters:
-   - x: data to plot on the x-axis
-   - y: data to plot on the y-axis
-   - hue: data for color encoding
-   - data: Dataframe, array, or list of arrays 
+    - x: data to plot on the x-axis
+    - y: data to plot on the y-axis
+    - hue: data for color encoding
+    - data: Dataframe, array, or list of arrays 
 - Note:
-    - Use categorical data for hue
+    - Use categorical data for hue
 
 
 <a id='countplot'></a>
@@ -542,7 +542,7 @@ plt.show()
 
 - From the above plot, we can say that approximate values of heart rate for different groups are as follows:
     |  Male    |  Current Smoker  | HeartRate [min, Q1, median, Q3, max] |
-| :----------: | :-----------: |-----------:
+| ---------- | ----------- |-----------|
 | 0   |  0    | [46, 67, 74, 84, 110] | 
 | 0   |  1    | [50, 69, 76, 85, 108] |
 | 1   |  0    | [44, 64, 72, 80, 104] | 
