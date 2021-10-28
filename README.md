@@ -541,9 +541,10 @@ plt.show()
 
 
 - From the above plot, we can say that approximate values of heart rate for different groups are as follows:
-    |  Male    |  Current Smoker  | HeartRate [min, Q1, median, Q3, max] |
-| ---------- | ----------- |-----------|
-| 0   |  0    | [46, 67, 74, 84, 110] | 
+
+|  Male    |  Current Smoker  | HeartRate [min, Q1, median, Q3, max] |
+| ----------- | ----------- | ----------- |
+|  0   |  0    | [46, 67, 74, 84, 110] | 
 | 0   |  1    | [50, 69, 76, 85, 108] |
 | 1   |  0    | [44, 64, 72, 80, 104] | 
 | 1   |  1    | [46, 69, 76, 82, 102] |
